@@ -1,0 +1,11 @@
+# dados baixados e resultados (pesados e específicos de cada execução)
+dados/
+saida/
+__pycache__/
+*.pyc
+.venv/
+
+# rascunhos de texto dos trabalhos (não publicar)
+CONAG*.docx
+CONAG*.pdf
+antigos/

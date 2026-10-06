@@ -1,0 +1,7 @@
+requests
+hatanaka
+pandas
+numpy
+matplotlib
+pypdf
+openpyxl
